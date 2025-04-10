@@ -7,8 +7,6 @@
 
 </details>
 
----
-
 <details>
   <summary>🎮 <strong>CTFs</strong></summary>
 
@@ -20,8 +18,6 @@
 
 </details>
 
----
-
 <details>
   <summary>🧰 <strong>Tools & Resources</strong></summary>
 
@@ -30,8 +26,6 @@
 - [And More..](https://github.com/SecShiv?tab=repositories)  
 
 </details>
-
----
 
 <details>
   <summary>📚 <strong>Certifications</strong></summary>
