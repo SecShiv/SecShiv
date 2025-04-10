@@ -1,5 +1,5 @@
 <details>
-  <summary>🐞 <strong>CVEs & Bug Bounties</strong></summary>
+  <summary>🐞 <strong>CVEs & Bug Bounty Contributions</strong></summary>
 
 - [CVE-2024-50807](https://github.com/SecShiv/CVE/blob/main/CVE-2024-50807.md)  
 - 1 Earned Web Bug  
