@@ -1,9 +1,9 @@
 <details>
   <summary>🐞 <strong>CVE & Bug Bounty Contributions</strong></summary>
-
-- [CVE-2024-50807](https://github.com/SecShiv/CVE/blob/main/CVE-2024-50807.md)  
-- 1 Earned Web Bug  
-- Self-Hosted Government/Municipality Platforms, CMS  
+<kbd> <br> <a href="https://github.com/SecShiv/CVE/blob/main/CVE-2024-50807.md">CVE-2024-50807</a> <br> </kbd>
+  
+- Self-Hosted Government/Municipality, CMS
+- 1 Earned Web Bug    
 
 </details>
 
