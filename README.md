@@ -30,7 +30,7 @@
 <details>
   <summary>📚 <strong>Certifications</strong></summary>
 
-#### [Pentest+, Net+, A+, etc.](https://www.credly.com/users/shivam-khanna.f03465d1)  
+  [Pentest+, Net+, A+, etc.](https://www.credly.com/users/shivam-khanna.f03465d1)  
 - [Notes](https://github.com/SecShiv/Cert-Notes) 
 
 </details>
