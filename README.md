@@ -13,7 +13,8 @@
 - [HackTheBox](https://app.hackthebox.com/profile/1883023), [HackTheBox UNI CTFs](https://ctf.hackthebox.com/user/profile/543340), [HackTheBox CTFs](https://ctf.hackthebox.com/user/profile/340538)  
 - [TryHackMe](https://tryhackme.com/p/HackShiv)  
 - [RootMe](https://www.root-me.org/HackShiv?lang=en#1fd907f1a92ab32cb510f5b331f03d30)  
-- [Bl4ckh4ck5's XSS CTFs 😉:](https://ctfs.hackoclipse.com/) Completed CTFs 4, 5, 8, 10, 12 
+- [Bl4ckh4ck5's XSS CTFs 😉:](https://ctfs.hackoclipse.com/) Completed CTFs 4, 5, 8, 10, 12
+   - https://x.com/bl4ckh4ck5/
 
 </details>
 
