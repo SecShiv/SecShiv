@@ -22,7 +22,8 @@
   <summary>🧰 <strong>Tools & Resources</strong></summary>
 
 - [Dorking](https://github.com/SecShiv/OneDorkForAll)  
-- [Common Auth Bypass Headers](https://github.com/SecShiv/40XHeaderBypasser)  
+- [Common Auth Bypass Headers Tooling](https://github.com/SecShiv/40XHeaderBypasser)
+- [ffuf outputter](https://github.com/SecShiv/ffuf-outputter)  
 - [And More..](https://github.com/SecShiv?tab=repositories)  
 
 </details>
