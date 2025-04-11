@@ -19,19 +19,19 @@
 </details>
 
 <details>
+  <summary>🔍 <strong>Projects & Research</strong></summary>
+
+- [Weird Unexpected File Upload Vector](https://github.com/SecShiv/Projects-and-Research/blob/main/File%20Upload%3A%20Boundary%20Parameter%20Removal.md)  
+- [Android Setup](https://github.com/SecShiv/Projects-and-Research/blob/main/Android%20-%20All-In-One%20Solution.pdf)
+
+</details>
+
+<details>
   <summary>🧰 <strong>Tools & Resources</strong></summary>
 
 - [Dorking](https://github.com/SecShiv/OneDorkForAll)  
 - [Common Auth Bypass Headers Tooling](https://github.com/SecShiv/40XHeaderBypasser)
 - [ffuf outputter](https://github.com/SecShiv/ffuf-outputter), [And More..](https://github.com/SecShiv?tab=repositories)  
-
-</details>
-
-<details>
-  <summary>🔍 <strong>Projects & Research</strong></summary>
-
-- [Weird Unexpected File Upload Vector](https://github.com/SecShiv/Projects-and-Research/blob/main/File%20Upload%3A%20Boundary%20Parameter%20Removal.md)  
-- [Android Setup](https://github.com/SecShiv/Projects-and-Research/blob/main/Android%20-%20All-In-One%20Solution.pdf)
 
 </details>
 
