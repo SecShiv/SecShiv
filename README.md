@@ -21,7 +21,7 @@
 <details>
   <summary>🔍 <strong>Projects & Research</strong></summary>
 
-- [Weird, unexpected but dangerous File Upload Vector: Multipart Boundary Parameter](https://github.com/SecShiv/Projects-and-Research/blob/main/File%20Upload%3A%20Boundary%20Parameter%20Removal.md)  
+- [Unexpected but dangerous File Upload Vector: Multipart Boundary Parameter](https://github.com/SecShiv/Projects-and-Research/blob/main/File%20Upload%3A%20Boundary%20Parameter%20Removal.md)  
 - [Android Setup](https://github.com/SecShiv/Projects-and-Research/blob/main/Android%20-%20All-In-One%20Solution.pdf)
 
 </details>
