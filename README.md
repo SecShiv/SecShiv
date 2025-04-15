@@ -8,6 +8,14 @@
 </details>
 
 <details>
+  <summary>🔍 <strong>Projects & Research</strong></summary>
+
+- [Unexpected but dangerous File Upload Vector: Multipart Boundary Parameter](https://github.com/SecShiv/Projects-and-Research/blob/main/File%20Upload%3A%20Boundary%20Parameter%20Removal.md)  
+- [Android Setup](https://github.com/SecShiv/Projects-and-Research/blob/main/Android%20-%20All-In-One%20Solution.pdf)
+
+</details>
+
+<details>
   <summary>🎮 <strong>CTFs</strong></summary>
 
 - [HackTheBox](https://app.hackthebox.com/profile/1883023), [HackTheBox Uni CTFs](https://ctf.hackthebox.com/user/profile/543340), [HackTheBox CTFs](https://ctf.hackthebox.com/user/profile/340538)  
@@ -15,14 +23,6 @@
 - [RootMe](https://www.root-me.org/HackShiv?lang=en#1fd907f1a92ab32cb510f5b331f03d30)  
 - [Bl4ckh4ck5's XSS CTFs 😉:](https://ctfs.hackoclipse.com/) Completed CTFs 4, 5, 8, 10, 11, 12
   - https://x.com/bl4ckh4ck5/
-
-</details>
-
-<details>
-  <summary>🔍 <strong>Projects & Research</strong></summary>
-
-- [Unexpected but dangerous File Upload Vector: Multipart Boundary Parameter](https://github.com/SecShiv/Projects-and-Research/blob/main/File%20Upload%3A%20Boundary%20Parameter%20Removal.md)  
-- [Android Setup](https://github.com/SecShiv/Projects-and-Research/blob/main/Android%20-%20All-In-One%20Solution.pdf)
 
 </details>
 
