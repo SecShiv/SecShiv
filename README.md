@@ -1,3 +1,5 @@
+### (Sections ranked in terms of difficulty and uniqueness)
+
 <details>
   <summary>🐞 <strong>CVE & Bug Bounty Contributions</strong></summary>
 <kbd> <br> <a href="https://github.com/SecShiv/CVE/blob/main/CVE-2024-50807.md">CVE-2024-50807</a> <br> </kbd>
