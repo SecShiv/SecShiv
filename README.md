@@ -2,7 +2,8 @@
   <summary>🐞 <strong>CVE & Bug Bounty Contributions</strong></summary>
 <kbd> <br> <a href="https://github.com/SecShiv/CVE/blob/main/CVE-2024-50807.md">CVE-2024-50807</a> <br> </kbd>
 <kbd> <br> <a href="https://www.cve.org/CVERecord?id=CVE-2025-49069">CVE-2025-49069 WP plugin</a> <br> </kbd>
-  
+
+- [WP Researcher Profile](https://patchstack.com/database/researcher/b9d15013-ffbc-488a-8b68-799329fd8932)
 - Self-Hosted Governments/Municipalities, CMS
 - 1 Earned Web Bug    
 
