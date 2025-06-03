@@ -3,7 +3,7 @@
 <kbd> <br> <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=2024-50807">CVE-2024-50807</a> <br> </kbd>
 <kbd> <br> <a href="https://www.cve.org/CVERecord?id=CVE-2025-49069">CVE-2025-49069 WP plugin</a> <br> </kbd>
 
-- [WP Researcher Profile](https://patchstack.com/database/researcher/b9d15013-ffbc-488a-8b68-799329fd8932), [CVEs](https://github.com/SecShiv/CVE)
+- [WP Researcher Profile](https://patchstack.com/database/researcher/b9d15013-ffbc-488a-8b68-799329fd8932), [CVEs PoC](https://github.com/SecShiv/CVE)
 - Self-Hosted Governments/Municipalities, CMS
 - 1 Earned Web Bug    
 
