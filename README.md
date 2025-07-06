@@ -41,7 +41,7 @@
 <details>
   <summary>📚 <strong>Certifications</strong></summary>
 
-- CNSP - Certified Network Security Professional: SecOps Group 
+- CNSP - Network Security: SecOps Group 
 - [CompTIA: Pentest+, Net+, A+, etc.](https://www.credly.com/users/shivam-khanna.f03465d1) 
 - [Notes](https://github.com/SecShiv/Cert-Notes) 
 
