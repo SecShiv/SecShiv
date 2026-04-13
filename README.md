@@ -5,6 +5,7 @@
 
 - [CVEs PoC](https://github.com/SecShiv/CVE)
 - [WP Researcher Profile](https://patchstack.com/database/researcher/b9d15013-ffbc-488a-8b68-799329fd8932)
+- [Blog](https://secshiv.github.io/)
 - Self-Hosted Governments/Municipalities, CMS
 
 </details>
