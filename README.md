@@ -1,4 +1,4 @@
-<details>
+<details open>
   <summary>🐞 <strong>CVE & Bug Bounty Contributions</strong></summary>
 <kbd> <br> <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=2024-50807">CVE-2024-50807</a> <br> </kbd>
 <kbd> <br> <a href="https://www.cve.org/CVERecord?id=CVE-2025-49069">CVE-2025-49069 WP plugin</a> <br> </kbd>
@@ -10,7 +10,7 @@
 
 </details>
 
-<details>
+<details open>
   <summary>🎮 <strong>CTFs</strong></summary>
 
 - Portswigger Labs (70%)  
@@ -23,7 +23,7 @@
 
 </details>
 
-<details>
+<details open>
   <summary>🔍 <strong>Projects & Research</strong></summary>
 
 - [Unexpected but dangerous File Upload Vector: Multipart Boundary Parameter](https://github.com/SecShiv/Projects-and-Research/blob/main/File%20Upload%3A%20Boundary%20Parameter%20Removal.md)  
@@ -31,7 +31,7 @@
 
 </details>
 
-<details>
+<details open>
   <summary>🧰 <strong>Tools & Resources</strong></summary>
 
 - [Dorking](https://github.com/SecShiv/OneDorkForAll)  
@@ -40,7 +40,7 @@
 
 </details>
 
-<details>
+<details open>
   <summary>📚 <strong>Certifications</strong></summary>
 
 - CNSP - Network Security: SecOps Group 
