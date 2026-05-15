@@ -14,7 +14,7 @@
   <summary>🎮 <strong>CTFs</strong></summary>
 
 - Portswigger Labs (70%)  
-- [HackTheBox](https://app.hackthebox.com/profile/1883023), [HackTheBox CTFs](https://ctf.hackthebox.com/user/profile/340538), [HackTheBox CTFs 2](https://ctf.hackthebox.com/user/profile/543340)  
+- [HackTheBox](https://app.hackthebox.com/users/1883023), [HackTheBox CTFs](https://ctf.hackthebox.com/user/profile/340538), [HackTheBox CTFs 2](https://ctf.hackthebox.com/user/profile/543340)  
 - [TryHackMe](https://tryhackme.com/p/HackShiv)  
 - [RootMe](https://www.root-me.org/HackShiv?lang=en#1fd907f1a92ab32cb510f5b331f03d30)
 - [LetsDefend - Blue Team Profile](https://app.letsdefend.io/user/HackShiv)
