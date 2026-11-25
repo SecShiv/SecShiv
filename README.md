@@ -1,7 +1,8 @@
 <details open>
   <summary>🐞 <strong>CVE & Bug Bounty Contributions</strong></summary>
-<kbd> <br> <a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=2024-50807">CVE-2024-50807</a> <br> </kbd>
-<kbd> <br> <a href="https://www.cve.org/CVERecord?id=CVE-2025-49069">CVE-2025-49069 WP plugin</a> <br> </kbd>
+<kbd> <br> <a href="https://www.cve.org/CVERecord?id=CVE-2024-50807">CVE-2024-50807</a> <br> </kbd>
+<kbd> <br> <a href="https://www.cve.org/CVERecord?id=CVE-2025-49069">CVE-2025-49069</a> <br> </kbd>
+<kbd> <br> <a href="https://www.cve.org/CVERecord?id=CVE-2026-134485">CVE-2026-134485</a> <br> </kbd>
 
 - [CVEs PoC](https://github.com/SecShiv/CVE)
 - [WP Researcher Profile](https://patchstack.com/database/researcher/b9d15013-ffbc-488a-8b68-799329fd8932)
